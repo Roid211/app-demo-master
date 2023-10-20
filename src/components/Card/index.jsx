@@ -1,4 +1,4 @@
-import Button from "../Button"
+import Button from "../Button";
 
 const Card = ({id, title, description, image, edad, onPress, price }) => {
   return (
